@@ -1,11 +1,14 @@
-<h1 align="center">Hi , I'm Francisco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1 align="center" font='Bungee'>Hi, I'm Francisco 👋</h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&color=%23C8BE25&size=30&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Programming+Technican+Student;"></a>
 </p>
 <br>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<h2>🙋🏻‍♂️ About me</h2>
 <p align='left'>I am a self-taught web development student, currently pursuing a University Technician degree in Programming. For over a year, I have been learning and working on projects with React and Next.js, which has helped me improve my frontend skills. I am now studying Node.js, Express, and MySQL to expand my knowledge in backend development.</p>
 <br>
 
@@ -46,22 +49,16 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
 </span>
-
+<br><br><br>
 
 <h2>⚙️ GitHub Stats</h2>
 
-<p align="center">
-<a href="https://github.com/bultynch">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bultynch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bultynch&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 [![](https://github-readme-stats.vercel.app/api?username=bultynch&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/bultynch)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=bultynch&theme=material-palenight)](https://github.com/bultynch)
+<br><br><br>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2>📬 Contactme</h2>
 <p align="left">
 <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
